@@ -1,0 +1,31 @@
+.container {
+    width: 80%;
+}
+
+header {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+
+.author {
+    text-align: right;
+}
+
+ul {
+    padding: 6px;
+    margin: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+.hero {
+    width: 100%;
+}
+
+.works {
+    width: 90%;
+    height: 80%;
+}

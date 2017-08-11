@@ -1,0 +1,40 @@
+#content {
+    width: 312px;
+    padding: 6px;
+    border: 1px solid #dcdcdc;
+    border-radius: 4px;
+    box-shadow: 5px 5px 2px #d3d3d3;
+    font-family: "Times New Roman", times, serif;
+    background-color: #ffffe0
+}
+
+h3 {
+    padding: 6px;
+    margin: 0px;
+}
+
+img {
+    padding: 6px;
+    margin: 0px;
+}
+
+p {
+    padding: 6px;
+    margin: 0px;
+}
+
+.describe {
+    border: 1px solid #dcdcdc;
+    font-size: 80%;
+    padding: 6px;
+    margin: 5px;
+}
+
+.describe ul {
+    padding: 6px;
+    margin: 0px;
+}
+
+.describe ul li {
+    list-style-type: none;
+}
